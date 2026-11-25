@@ -4,24 +4,8 @@
   <img src="/assets/banner.png" alt="wtfbuilds — witness the future builds" width="100%">
 </a>
 
-<p align="center">
-  <code>EST. 2026</code> &nbsp;·&nbsp; <code>SHIPPING IN PUBLIC</code> &nbsp;·&nbsp; <code>BAREILLY, IN</code>
-</p>
 
-<p align="center">
-  <strong>We build what we wish existed.</strong>
-  <br />
-  Tools. Open source. Software. Robots.
-  <br />
-  Some of it works. That's the point.
-</p>
 
-<p align="center">
-  <a href="https://wtfbuilds.com">WEBSITE</a> &nbsp;·&nbsp;
-  <a href="https://github.com/wtfbuilds">GITHUB</a>
-</p>
-
----
 
 ## `01 / WHAT IS WTFBUILDS?`
 
